@@ -1,0 +1,18 @@
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f3f3f3;
+}
+
+.container {
+    text-align: center;
+    position: relative; /* Permite posicionamento absoluto dentro do contêiner */
+}
+button:hover {
+    background-color: #45a049;
+}
